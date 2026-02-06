@@ -1,5 +1,20 @@
-<h1 align="center">Hi 👋, I'm Chhavi Dubey</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h1>About Me:</h1>
+
+<p>
+🎓 Computer Science Student <br>
+💻 Aspiring Backend Developer <br>
+🌱 Currently learning <b>Java, Spring Boot, SQL</b>
+</p>
+
+<h3>🛠 Technical Skills</h3>
+
+<ul>
+  <li><b>Programming:</b> Java, Object-Oriented Programming (OOP), Data Structures & Algorithms</li>
+  <li><b>Database:</b> SQL, MySQL</li>
+  <li><b>Backend:</b> Basics of RESTful APIs</li>
+  <li><b>Tools:</b> Git, GitHub</li>
+</ul>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
