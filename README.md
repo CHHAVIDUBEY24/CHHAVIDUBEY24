@@ -15,10 +15,11 @@
 
 <h3 align="left">📊 GitHub Dashboard</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chhavidubey2436&show_icons=true&theme=tokyonight" alt="Chhavi's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CHHAVIDUBEY24&show_icons=true&theme=tokyonight" alt="Chhavi's Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chhavidubey2436&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHHAVIDUBEY24&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
