@@ -26,10 +26,11 @@
 
 ---
 
-## 🛠️ Tech Stack
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,git,github,cpp,html,css,vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" height="48" />
 </p>
 
 **Languages:** Java, C++
