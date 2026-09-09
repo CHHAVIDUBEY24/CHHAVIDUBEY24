@@ -13,18 +13,41 @@
   <li><b>Tools:</b> Git, GitHub, Vercel, Render</li>
 </ul>   
 
-<h3 align="left">📊 GitHub Dashboard</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHHAVIDUBEY24&show_icons=true&theme=tokyonight" alt="Chhavi's Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHHAVIDUBEY24&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<h3 align="center">📊 GitHub Stats and Activity</h3>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <!-- Row 1 -->
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CHHAVIDUBEY24&theme=tokyonight" width="400" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CHHAVIDUBEY24&theme=tokyonight" width="400" />
+      </td>
+    </tr>
+    <tr>
+      <!-- Row 2 -->
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHHAVIDUBEY24&theme=tokyonight" width="400" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CHHAVIDUBEY24&theme=tokyonight&utcOffset=5.5" width="400" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,git,cpp,c,vercel,render" />
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
