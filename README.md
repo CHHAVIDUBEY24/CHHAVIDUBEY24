@@ -1,18 +1,24 @@
 <h1 align="center">Hi 👋, I'm Chhavi Dubey</h1>
 
-<h3 align="center">Java Backend Developer | Spring Boot | SQL | DSA</h3>
+<p align="center">
+  <b>Java Backend Developer</b> • Spring Boot • SQL • Data Structures & Algorithms
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/chhavi-dubey24">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/chhavidubey2436">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://github.com/CHHAVIDUBEY24">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://chhavi-dubey-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
