@@ -20,7 +20,6 @@
 </p>
 
 
----
 
 ## 👩‍💻 About Me
 
@@ -31,8 +30,7 @@ I'm a Computer Science & Engineering graduate focused on building reliable backe
 - 🧠 Practicing Data Structures & Algorithms
 - ⚙️ Interested in authentication, databases & scalable backend systems
 - 🎯 Working toward a career as a Java Backend Engineer
-
----
+  
 
 ## 🛠️ Tech Stack
 
@@ -49,7 +47,7 @@ I'm a Computer Science & Engineering graduate focused on building reliable backe
   <b>GitHub</b> • <b>Maven</b> • <b>Postman</b> •
   <b>Vercel</b> • <b>Render</b>
 </p>
----
+
 
 <h2>📊 GitHub Dashboard</h2>
 
@@ -91,7 +89,7 @@ I'm a Computer Science & Engineering graduate focused on building reliable backe
   />
 </p>
 
----
+
 
 ## 🚀 Featured Projects
 
