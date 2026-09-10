@@ -26,19 +26,21 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,git,github,cpp,html,css,vercel" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,git,github,cpp,html,css,linux,vercel" />
+  <img src="https://skillicons.dev/icons?i=postman" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" height="48" />
 </p>
 
-**Languages:** Java, C++
-**Backend:** Spring Boot, REST APIs, Spring Security, JPA/Hibernate
-**Database:** MySQL, SQL
-**Core:** OOP, Data Structures & Algorithms
-**Tools:** Git, GitHub, Maven, Render
-
+<p align="center">
+  <b>Java</b> • <b>Spring Boot</b> • <b>Spring Security</b> •
+  <b>REST APIs</b> • <b>JPA/Hibernate</b> • <b>MySQL</b> •
+  <b>SQL</b> • <b>OOP</b> • <b>DSA</b> • <b>Git</b> •
+  <b>GitHub</b> • <b>Maven</b> • <b>Postman</b> •
+  <b>Vercel</b> • <b>Render</b>
+</p>
 ---
 
 <h2>📊 GitHub Dashboard</h2>
