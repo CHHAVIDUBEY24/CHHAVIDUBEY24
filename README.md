@@ -24,11 +24,13 @@
 
 ## 👩‍💻 About Me
 
-🎓 Computer Science & Engineering student
-💻 Aspiring Java Backend Developer
-🌱 Building backend applications with Java & Spring Boot
-🧠 Practicing Data Structures & Algorithms
-🗄️ Interested in REST APIs, databases, authentication & scalable backend systems
+I'm a Computer Science & Engineering graduate focused on building reliable backend applications with **Java and Spring Boot**.
+
+- 🔭 Building RESTful backend applications
+- 🌱 Strengthening Spring Security, SQL & system design
+- 🧠 Practicing Data Structures & Algorithms
+- ⚙️ Interested in authentication, databases & scalable backend systems
+- 🎯 Working toward a career as a Java Backend Engineer
 
 ---
 
@@ -109,14 +111,18 @@ Backend application providing job, company, user and application management.
 
 ## 📈 Currently Improving
 
-* Advanced Java & Spring Boot
-* Spring Security & JWT Authentication
-* SQL & Database Design
-* Data Structures & Algorithms
-* REST API Design
-* Backend System Design
-* Microservices
-
+```text
+Java & Spring Boot
+        ↓
+Spring Security & JWT
+        ↓
+SQL & Database Design
+        ↓
+Data Structures & Algorithms
+        ↓
+System Design
+        ↓
+Microservices
 ---
 
 ## 📫 Connect With Me
