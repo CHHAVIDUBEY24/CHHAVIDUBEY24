@@ -95,19 +95,34 @@ I'm a Computer Science & Engineering graduate focused on building reliable backe
 
 ## 🚀 Featured Projects
 
-### 🔹 LifeCompanion
+<table>
+<tr>
+<td width="50%">
 
-A full-stack application focused on helping users build healthier daily routines through structured activities and supportive interactions.
+### 🌱 LifeCompanion
 
-**Tech:** Java, Spring Boot, REST APIs, MySQL
+A full-stack wellbeing application focused on structured self-reflection, daily activities and supportive interactions.
 
-### 🔹 Job Portal
+**Tech Stack**
 
-Backend application providing job, company, user and application management.
+`Java` `Spring Boot` `REST APIs` `MySQL`
 
-**Tech:** Java, Spring Boot, Spring Security, JWT, Spring Data JPA, MySQL
+</td>
 
----
+<td width="50%">
+
+### 💼 Job Portal
+
+A backend application for managing jobs, companies, users and applications with secure role-based access.
+
+**Tech Stack**
+
+`Java` `Spring Boot` `Spring Security` `JWT` `JPA` `MySQL`
+
+</td>
+</tr>
+</table>
+
 
 ## 📈 Currently Improving
 
